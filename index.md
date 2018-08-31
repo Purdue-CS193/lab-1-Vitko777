@@ -1,4 +1,9 @@
-# Vitalii's New WebPage
+# Vitalii's First CS193 Lab
+
+- Funny Instructors 
+- Very resourscefull class
+- Helpfull TA'S
+- Very motivating and encouraging 
 
 ## Welcome to GitHub Pages
 
